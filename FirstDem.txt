@@ -2,6 +2,7 @@ The Rainbow
 
 green
 red
+Yellow
 blue
 black
 These are the colours of rainbow
